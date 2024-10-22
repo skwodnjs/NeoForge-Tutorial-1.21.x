@@ -1,4 +1,7 @@
 {
   "item.jwn_tutorial_mod.bismuth": "Bismuth",
-  "item.jwn_tutorial_mod.raw_bismuth": "Raw Bismuth"
+  "item.jwn_tutorial_mod.raw_bismuth": "Raw Bismuth",
+
+  "block.jwn_tutorial_mod.bismuth_block": "Block of Bismuth",
+  "block.jwn_tutorial_mod.bismuth_ore": "Bismuth Ore"
 }
